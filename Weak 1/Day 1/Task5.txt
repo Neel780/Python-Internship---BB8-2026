@@ -1,0 +1,1 @@
+Instagram (Meta) uses Python heavily in production, primarily relying on the Django web framework for its backend infrastructure. They utilize it to handle massive amounts of concurrent user requests and to manage their enormous database of images and user interactions efficiently.
